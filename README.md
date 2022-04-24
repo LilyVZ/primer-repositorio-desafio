@@ -1,4 +1,4 @@
-# primer-repositorio-desafio
-Proyecto desafio git/github dio
-## links útiles
+# Desafio de proyecto Git/Github
+Repositorio de proyecto de DIO
+## Links útiles
 [Sintáxis básica Markdown](https://markdown.es/)
